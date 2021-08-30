@@ -1,0 +1,15 @@
+Interpreter
+It translates the code instruction by instruction.
+Its execution is slower.	
+Its compile time is less.	
+It does not generate the intermediate object code.	
+It compiles the program until an error is found.	
+Python, PHP and Perl use an interpreter.	
+
+complier
+It translates the entire program at once.
+Its execution is faster.
+It takes more time to compile the code.
+It generates the intermediate object  code.
+All the errors show once at the end of the compilation.
+Java, C++ and C uses a compiler.
